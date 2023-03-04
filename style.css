@@ -24,3 +24,9 @@ h2{
     color: #d1633c;
     font-size: 1em;
 }
+
+.goose-img{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
